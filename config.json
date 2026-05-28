@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersncrypt",
+        "uuid": 23477571,
+        "checksum": "wsg0f"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
